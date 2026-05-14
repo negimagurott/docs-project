@@ -1,17 +1,21 @@
-# Title
+# 議事録テンプレート
 
-## Summary
+## 日時
 
-Write a short overview here.
+YYYY-MM-DD HH:MM-HH:MM
 
-## Details
-
-Add the main content here.
-
-## Open Questions
+## 参加者
 
 - 
 
-## Next Steps
+## 議題
 
 - 
+
+## 決定事項
+
+- 
+
+## TODO
+
+- [ ] 
